@@ -1,4 +1,8 @@
-﻿Shader "Standard Triplanar"
+// World space Standard shader with triplanar mapping
+// https://github.com/emanvidmaker/WorldSpaceStandardTriplanar
+//this is a modified version of https://github.com/keijiro/StandardTriplanar
+
+Shader "Standard Triplanar"
 {
     Properties
     {
